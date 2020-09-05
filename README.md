@@ -1,12 +1,12 @@
 # A tool I quickly programmed in order to associate Anonymized Hedge Funds on WRDS with their respective Identifications; although I intend to expand this repository.
 
-# There are 4 different Hedge Fund Databases offered by WRDS.
+There are 4 different Hedge Fund Databases offered by WRDS.
   1. Morningstar CISDM
   2. Thomson TASS
   3. HFR
   4. and EurekaHedge
 
-# While there exist fancier subscriptions that allow for access to Identifiers,HFR and Thomson TASS do not make this information available to everyone.
+While there exist fancier subscriptions that allow for access to Identifiers,HFR and Thomson TASS do not make this information available to everyone.
 To clarify,
    All Morningstar CISDM subscriptions seem to identify every fund.
      HFR and Thomason TASS do not. As far as I know, TASS doesn't seem to offer identifiers at any subscription-level
