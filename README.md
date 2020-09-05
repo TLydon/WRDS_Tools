@@ -1,6 +1,4 @@
-# WRDS_Tools
-
-#This is a tool I quickly programmed in order to associate Anonymized Hedge Funds on WRDS with their respective Identifications
+#A tool I quickly programmed in order to associate Anonymized Hedge Funds on WRDS with their respective Identifications; although I intend to expand this repository.
 
 #There are 4 different Hedge Fund Databases offered by WRDS.
   1. Morningstar CISDM
